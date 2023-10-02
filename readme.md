@@ -1,7 +1,7 @@
 
 **TGMembership Readme**
 
-This is  a Telegram bot application that manages subscriptions for premium groups or channels. The bot is built using the pytelegrambotapi library and integrates with a Flask server for webhook handling. It also uses the SQLAlchemy ORM for database interactions and the Coinbase Commerce API for handling payments.
+This is a Telegram bot application that manages subscriptions for premium groups or channels. The bot is built using the pytelegrambotapi library and integrates with a Flask server for webhook handling. It also uses the SQLAlchemy ORM for database interactions and the Coinbase Commerce API for handling payments.
 Key Features
 
 1. *Subscription Management*: The bot manages subscriptions for premium groups or channels. It can add or remove users from groups based on their subscription status.
